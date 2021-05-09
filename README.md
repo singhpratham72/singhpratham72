@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Pratham</h1>
-<h3>I like building apps</h3>
+<h3>I dream and build apps</h3>
 
 - 🔭 I’m currently working at [iMumz](https://imumz.com)
 
