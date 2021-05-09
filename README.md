@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Pratham</h1>
 <h3 align="center">I like building apps</h3>
 
-- 🔭 I’m currently working on [iMumz](https://imumz.com)
+- 🔭 I’m currently working at [iMumz](https://imumz.com)
 
 - 🌱 I’m currently learning **Game Development**
 
-- 👨‍💻 All of my projects are available at [prathamsingh.in](prathamsingh.in)
+- 👨‍💻 Find my resume at [prathamsingh.in](prathamsingh.in)
 
 - 💬 Ask me about **anything Flutter**
 
-- 📫 Reach me at **pratham.singh_ug22@ashoka.edu.in**
+- 📫 Connect with me at **pratham.singh_ug22@ashoka.edu.in**
 
 
 <h3 align="left">Languages and Tools:</h3>
