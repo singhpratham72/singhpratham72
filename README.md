@@ -1,15 +1,13 @@
-<h1>Hey 👋, I'm Pratham</h1>
+<h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pratham</h1>
 <h3>I dream and I build apps</h3>
 
-- I’m currently working at [iMumz](https://imumz.com)
-
-- I’m currently learning **Game Development**
-
-- Find my resume at [prathamsingh.in](prathamsingh.in)
+- I’m currently interning at [iMumz](https://imumz.com)
 
 - Ask me about **anything Flutter**
 
 - Connect with me at **pratham.singh_ug22@ashoka.edu.in**
+
+- Find my resume at [prathamsingh.in](prathamsingh.in) 
 
 
 <h3 align="left">I use these to bring ideas to life:</h3>
