@@ -10,7 +10,7 @@
 
 - Drop a hi at **pratham.singh_ug22@ashoka.edu.in**
 
-- Find my resume at [prathamsingh.in](prathamsingh.in)
+- Find my resume at [prathamsingh.in](https://prathamsingh.in)
 
 
 <h3 align="left">I use these to bring ideas to life:</h3>
