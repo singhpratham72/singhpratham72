@@ -4,8 +4,6 @@
 
 <h3>I dream and I build apps</h3>
 
-- I’m currently interning at [iMumz](https://imumz.com)
-
 - Ask me about **anything Flutter**
 
 - Drop a hi at **pratham.singh_ug22@ashoka.edu.in**
