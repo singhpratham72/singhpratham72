@@ -1,7 +1,5 @@
 <h1>Hey, I'm Pratham</h1>
 
-<a href = "https://www.linkedin.com/in/pratham-s/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <h3>I am a Software Developer</h3>
 
 - Ask me about **anything Flutter**
