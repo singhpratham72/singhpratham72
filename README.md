@@ -4,4 +4,4 @@
 
 - Drop a hi at **singhpratham72@gmail.com**
 
-- Find my resume at [prathamsingh.in](https://prathamsingh.in)
+- Find my more about me at [prathamsingh.in](https://prathamsingh.in)
