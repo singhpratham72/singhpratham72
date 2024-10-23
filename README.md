@@ -4,4 +4,4 @@
 
 - Drop a hi at **singhpratham72@gmail.com**
 
-- Find my more about me at [prathamsingh.in](https://prathamsingh.in)
+- Find more about me at [prathamsingh.in](https://prathamsingh.in)
